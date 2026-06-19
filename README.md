@@ -52,5 +52,6 @@ Sistema inteligente de gerenciamento de bibliotecas com recomendações personal
 
 ## 📫 Contato
 
+- 💼 LinkedIn: www.linkedin.com/in/guilherme-oliveira-...
 - 📍 Campinas, SP
 - 🎓 Engenharia de Software — PUC Campinas
