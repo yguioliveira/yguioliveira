@@ -1,30 +1,56 @@
-# Olá, eu sou o Guilherme Oliveira
+# Olá, eu sou o Guilherme Oliveira 👋
 
-Sou estudante de Engenharia de Software e estou desenvolvendo meus primeiros projetos em programação, com foco em Python, lógica de programação, GitHub e resolução de problemas.
+Sou estudante de Engenharia de Software na PUC Campinas, com interesse em Inteligência Artificial, automação e desenvolvimento de soluções utilizando Python e MySQL.
 
-## Atualmente estudando
+Atualmente, desenvolvo projetos voltados à resolução de problemas reais, aplicando lógica de programação, modelagem de sistemas e boas práticas de desenvolvimento. Estou sempre em busca de aprender novas tecnologias e evoluir como desenvolvedor.
+
+---
+
+## 🚀 Áreas de interesse
 
 - Python
-- Algoritmos e lógica de programação
+- MySQL
+- Inteligência Artificial
+- Estruturas de Dados e Algoritmos
 - Git e GitHub
-- Desenvolvimento de projetos acadêmicos
+- Desenvolvimento de Software
 
-## Projeto em destaque
+---
 
-**SEUC-4**  
-Sistema em Python para monitoramento de leituras de pressão hidrodinâmica, com ajuste térmico, classificação por zonas de estabilidade e protocolo de travamento automático.
+## 📌 Projetos em destaque
 
-## Tecnologias
+### 🗳️ Sistema de Votação Segura
+Sistema acadêmico desenvolvido em equipe com foco em integridade, autenticação e gerenciamento do processo de votação.
+
+### 🚚 FluxoNorte
+Sistema de gestão logística para controle de pedidos, entregadores e relatórios operacionais, aplicando regras de negócio e geração de relatórios.
+
+### 📡 SEUC-4
+Sistema de monitoramento de pressão hidrodinâmica com ajuste automático, classificação por zonas de estabilidade e emissão de alertas críticos.
+
+### 📚 SmartLibrary AI *(em desenvolvimento)*
+Sistema inteligente de gerenciamento de bibliotecas com recomendações personalizadas baseadas no histórico de leitura dos usuários.
+
+---
+
+## 🛠️ Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## GitHub Stats
+---
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-oliveira3&show_icons=true&theme=tokyonight&hide_border=true)
+## 📈 GitHub Stats
 
-## Contato
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=yguiliveira&show_icons=true&theme=tokyonight)
 
-- GitHub: [@guilherme-oliveira3](https://github.com/guilherme-oliveira3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yguiliveira&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+- 📍 Campinas, SP
+- 🎓 Engenharia de Software — PUC Campinas
