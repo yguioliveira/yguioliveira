@@ -44,9 +44,9 @@ Sistema inteligente de gerenciamento de bibliotecas com recomendações personal
 
 ## 📈 GitHub Stats
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=yguiliveira&show_icons=true&theme=tokyonight)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=yguioliveira&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yguiliveira&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yguioliveira&layout=compact&theme=tokyonight)
 
 ---
 
