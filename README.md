@@ -19,14 +19,14 @@ Atualmente, desenvolvo projetos voltados à resolução de problemas reais, apli
 
 ## 📌 Projetos em destaque
 
-### 🗳️ Sistema de Votação Segura
-Sistema acadêmico desenvolvido em equipe com foco em integridade, autenticação e gerenciamento do processo de votação.
+### 🗳️ [Sistema de Votação Digital](https://github.com/yguioliveira/Ladpy-Sistema-Votacao)
+Sistema em Python com integração ao MySQL para gerenciamento de eleitores, autenticação, registro de votos, auditoria, criptografia de dados sensíveis e apuração de resultados.
 
-### 🚚 FluxoNorte
-Sistema de gestão logística para controle de pedidos, entregadores e relatórios operacionais, aplicando regras de negócio e geração de relatórios.
+### 🚚 [FluxoNorte](https://github.com/yguioliveira/FluxoNorte)
+Sistema em Python para gestão de pedidos, entregadores, prioridades, pagamentos e reembolsos em logística urbana.
 
-### 📡 SEUC-4
-Sistema de monitoramento de pressão hidrodinâmica com ajuste automático, classificação por zonas de estabilidade e emissão de alertas críticos.
+### 📡 [SEUC-4](https://github.com/yguioliveira/SEUC-4)
+Sistema em Python para monitoramento de pressões hidrodinâmicas, ajuste térmico, classificação de estabilidade, alerta de cristalização e travamento crítico.
 
 ### 📚 SmartLibrary AI *(em desenvolvimento)*
 Sistema inteligente de gerenciamento de bibliotecas com recomendações personalizadas baseadas no histórico de leitura dos usuários.
@@ -42,16 +42,9 @@ Sistema inteligente de gerenciamento de bibliotecas com recomendações personal
 
 ---
 
-## 📈 GitHub Stats
-
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=yguioliveira&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yguioliveira&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contato
 
-- 💼 LinkedIn: www.linkedin.com/in/guioliveira-dev
+- 💼 LinkedIn: [linkedin.com/in/guioliveira-dev](https://www.linkedin.com/in/guioliveira-dev)
+- 📧 Email: [guioliveira.dev@outlook.com](mailto:guioliveira.dev@outlook.com)
 - 📍 Campinas, SP
 - 🎓 Engenharia de Software — PUC Campinas
