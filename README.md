@@ -2,7 +2,7 @@
 
 Sou estudante de Engenharia de Software na PUC Campinas, com interesse em desenvolvimento de software, inteligência artificial, automação e soluções utilizando Python e MySQL.
 
-Atualmente, estou construindo meu portfólio com projetos práticos que envolvem lógica de programação, regras de negócio, integração com banco de dados, organização de código e resolução de problemas reais.
+Atualmente, estou construindo meu portfólio com projetos práticos que envolvem lógica de programação, regras de negócio, integração com banco de dados, organização de código, automação e resolução de problemas reais.
 
 ---
 
@@ -51,9 +51,11 @@ Sistema em Python para monitoramento de pressões hidrodinâmicas, ajuste térmi
 
 ---
 
-### 📚 SmartLibrary AI *(em desenvolvimento)*
+### 📚 [SmartLibrary IA](https://github.com/yguioliveira/smartlibrary-ia)
 
-Sistema inteligente de gerenciamento de bibliotecas com recomendações personalizadas baseadas no histórico de leitura dos usuários.
+Sistema de gerenciamento de biblioteca em Python com MySQL, com cadastro de livros e usuários, controle de empréstimos, devoluções e recomendações simples baseadas no histórico dos usuários.
+
+**Principais pontos:** Python, MySQL, CRUD, menus interativos, regras de negócio, controle de estoque e recomendações.
 
 ---
 
