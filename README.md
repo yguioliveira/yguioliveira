@@ -51,7 +51,7 @@ Sistema em Python para monitoramento de pressões hidrodinâmicas, ajuste térmi
 
 ---
 
-### 📚 [SmartLibrary IA](https://github.com/yguioliveira/smartlibrary-ia)
+### 📚 [SmartLibrary IA](https://github.com/yguioliveira/SmartLibrary-IA)
 
 Sistema de gerenciamento de biblioteca em Python com MySQL, com cadastro de livros e usuários, controle de empréstimos, devoluções e recomendações simples baseadas no histórico dos usuários.
 
