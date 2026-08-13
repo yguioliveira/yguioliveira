@@ -1,86 +1,67 @@
-<div align="center">
+# Olá, eu sou o Guilherme Oliveira 👋
 
-<img src="assets/hero.svg" width="100%" alt="Banner"/>
+Sou estudante de Engenharia de Software na PUC Campinas, com interesse em desenvolvimento de software, inteligência artificial, automação e soluções utilizando Python e MySQL.
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Backend;Entusiasta+de+Intelig%C3%AAncia+Artificial;Construindo+produtos+com+IA;Sempre+aprendendo"/>
-
-### Construindo produtos com Inteligência Artificial, Python, FastAPI e Automação.
-
-</div>
+Atualmente, estou construindo meu portfólio com projetos práticos que envolvem lógica de programação, regras de negócio, integração com banco de dados, organização de código, automação e resolução de problemas reais.
 
 ---
 
-# 👋 Olá!
+## 🚀 Sobre mim
 
-Me chamo **Guilherme Oliveira** e sou estudante de **Engenharia de Software na PUC Campinas**.
-
-Gosto de transformar ideias em soluções reais. Atualmente concentro meus estudos e projetos em **Inteligência Artificial**, **desenvolvimento backend**, **automação de processos** e **arquitetura de software**.
-
-Mais do que aprender tecnologias, gosto de utilizá-las para criar produtos que resolvem problemas de verdade.
-
----
-
-# 🚀 Atualmente estou focado em
-
-- 🤖 Inteligência Artificial
-- ⚙️ Desenvolvimento Backend
-- 🔄 Automação de Processos
-- 🏗️ Arquitetura de Software
-- 🔗 APIs REST
-- 🚀 Desenvolvimento de produtos SaaS
+- 🎓 Estudante de Engenharia de Software
+- 💻 Foco atual em Python, MySQL, Git e GitHub
+- 🤖 Interesse em Inteligência Artificial e automação
+- 📚 Em constante evolução por meio de projetos práticos
+- 🧠 Buscando desenvolver soluções simples, úteis e bem organizadas
 
 ---
 
-# 🛠️ Tecnologias que utilizo
+## 🛠️ Tecnologias
 
-### Linguagens
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql"/>
-</p>
-
-### Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&labelColor=00D9FF&color=0D1117"/>
-</p>
-
-### Banco de Dados
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-### Ferramentas
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma,linux"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&labelColor=00D9FF&color=0D1117"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-# 📖 Atualmente aprendendo
+## 📌 Projetos em destaque
 
-Porque acredito que evoluir faz parte da profissão.
+### 🗳️ [Sistema de Votação Digital](https://github.com/yguioliveira/Ladpy-Sistema-Votacao)
 
-- ⚛️ React
-- 📘 TypeScript
-- ☁️ Cloud Computing
-- 🏗️ Arquitetura de Software
-- 🤖 Engenharia de IA
+Sistema em Python com integração ao MySQL para gerenciamento de eleitores, autenticação, registro de votos, auditoria, criptografia de dados sensíveis e apuração de resultados.
+
+**Principais pontos:** Python, MySQL, autenticação, criptografia, auditoria e regras de negócio.
 
 ---
 
-> *"Acredito que a melhor forma de aprender é construindo projetos que resolvem problemas reais."*
+### 🚚 [FluxoNorte](https://github.com/yguioliveira/FluxoNorte)
+
+Sistema em Python para gestão de pedidos, entregadores, prioridades, pagamentos e reembolsos em logística urbana.
+
+**Principais pontos:** lógica de negócio, manipulação de dados, organização de código e relatórios operacionais.
 
 ---
+
+### 📡 [SEUC-4](https://github.com/yguioliveira/SEUC-4)
+
+Sistema em Python para monitoramento de pressões hidrodinâmicas, ajuste térmico, classificação de estabilidade, alerta de cristalização e travamento crítico.
+
+**Principais pontos:** lógica de programação, estruturas condicionais, repetição, acumuladores e tomada de decisão.
+
+---
+
+### 📚 [SmartLibrary IA](https://github.com/yguioliveira/SmartLibrary-IA)
+
+Sistema de gerenciamento de biblioteca em Python com MySQL, com cadastro de livros e usuários, controle de empréstimos, devoluções e recomendações simples baseadas no histórico dos usuários.
+
+**Principais pontos:** Python, MySQL, CRUD, menus interativos, regras de negócio, controle de estoque e recomendações.
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: [linkedin.com/in/guioliveira-dev](https://www.linkedin.com/in/guioliveira-dev)
+- 📧 Email: [guioliveira.dev@outlook.com](mailto:guioliveira.dev@outlook.com)
+- 📍 Campinas, SP
+- 🎓 Engenharia de Software — PUC Campinas
