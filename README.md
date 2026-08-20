@@ -1,65 +1,69 @@
-# Olá, eu sou o Guilherme Oliveira 👋
+<h1 align="center">Guilherme Oliveira</h1>
 
-Sou estudante de Engenharia de Software na PUC Campinas, com interesse em desenvolvimento de software, desenvolvimento web, banco de dados, inteligência artificial e automação.
+<p align="center">
+  Estudante de Engenharia de Software | Desenvolvimento de software e banco de dados
+</p>
 
-Atualmente, construo meu portfólio com projetos práticos que envolvem lógica de programação, regras de negócio, integração com banco de dados, organização de código e resolução de problemas reais.
-
----
-
-## 🚀 Sobre mim
-
-- 🎓 Estudante de Engenharia de Software na PUC Campinas;
-- 💻 Conhecimentos em Python, HTML, CSS, C, Oracle SQL, MySQL, Git e GitHub;
-- 🤖 Interesse em Inteligência Artificial, automação e desenvolvimento web;
-- 📚 Em constante evolução por meio de projetos acadêmicos e práticos.
-
----
-
-## 🛠️ Tecnologias estudadas
-
-| Área | Tecnologias e conhecimentos |
-| --- | --- |
-| Desenvolvimento web | HTML5 e CSS3 |
-| Programação | Python e C |
-| Banco de dados | Oracle SQL e MySQL |
-| Versionamento | Git e GitHub |
+<p align="center">
+  <a href="https://www.linkedin.com/in/guioliveira-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Guilherme Oliveira">
+  </a>
+  <a href="mailto:guioliveira.dev@outlook.com">
+    <img src="https://img.shields.io/badge/E--mail-Contato-1D4ED8?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail de contato">
+  </a>
+</p>
 
 ---
 
-## 📌 Projetos em destaque
+## Sobre mim
 
-### 🗳️ [Sistema de Votação Digital](https://github.com/yguioliveira/Ladpy-Sistema-Votacao)
+Sou estudante de Engenharia de Software na PUC Campinas. Tenho experiência prática com Python e MySQL e desenvolvo projetos voltados a lógica de programação, regras de negócio, automação e organização de dados.
 
-Sistema em Python com integração ao MySQL para gerenciamento de eleitores, autenticação, registro de votos, auditoria e apuração de resultados.
-
-**Principais pontos:** Python, MySQL, autenticação, criptografia, auditoria e regras de negócio.
-
-### 🚚 [FluxoNorte](https://github.com/yguioliveira/FluxoNorte)
-
-Sistema em Python para gestão de pedidos, entregadores, prioridades, pagamentos e reembolsos em logística urbana.
-
-**Principais pontos:** lógica de negócio, manipulação de dados, organização de código e relatórios operacionais.
-
-### 📡 [SEUC-4](https://github.com/yguioliveira/SEUC-4)
-
-Sistema em Python para monitoramento de pressões hidrodinâmicas, ajuste térmico, classificação de estabilidade e alertas críticos.
-
-**Principais pontos:** estruturas condicionais, repetição, acumuladores e tomada de decisão.
-
-### 🌐 Currículo pessoal
-
-Página desenvolvida com HTML e CSS para a disciplina de Introdução às Tecnologias Web.
-
-**Principais pontos:** estrutura semântica, estilização em CSS externo, listas, tabelas e imagens.
+Neste semestre, estou ampliando meus conhecimentos em desenvolvimento web, programação em C e Oracle SQL, aplicando os conteúdos em atividades acadêmicas e projetos próprios.
 
 ---
 
-## 📫 Contato
+## Tecnologias
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/guioliveira-dev)
-- 📧 [guioliveira.dev@outlook.com](mailto:guioliveira.dev@outlook.com)
-- 📍 Campinas, SP
+### Conhecimentos consolidados
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+### Em aprendizado na graduação
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Linguagem C">
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL">
+</p>
 
 ---
 
-> Em constante aprendizado e evolução na área de tecnologia.
+## Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [Sistema de Votação Digital](https://github.com/yguioliveira/Ladpy-Sistema-Votacao) | Gerenciamento de eleitores, autenticação, votos, auditoria e apuração. | Python, MySQL |
+| [FluxoNorte](https://github.com/yguioliveira/FluxoNorte) | Gestão de pedidos, entregadores, prioridades, pagamentos e reembolsos. | Python |
+| [SEUC-4](https://github.com/yguioliveira/SEUC-4) | Sistema de monitoramento com regras de estabilidade e alertas críticos. | Python |
+
+---
+
+## Em desenvolvimento
+
+- Fortalecer habilidades em desenvolvimento web com HTML e CSS;
+- Aprofundar conhecimentos em Oracle SQL e modelagem de dados;
+- Evoluir em lógica e fundamentos de programação com C;
+- Desenvolver projetos cada vez mais completos e bem estruturados.
+
+---
+
+<p align="center">
+  <i>Construindo soluções simples, úteis e bem organizadas.</i>
+</p>
