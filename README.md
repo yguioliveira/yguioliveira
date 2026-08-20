@@ -1,27 +1,28 @@
 # Olá, eu sou o Guilherme Oliveira 👋
 
-Sou estudante de Engenharia de Software na PUC Campinas, com interesse em desenvolvimento de software, inteligência artificial, automação e soluções utilizando Python e MySQL.
+Sou estudante de Engenharia de Software na PUC Campinas, com interesse em desenvolvimento de software, desenvolvimento web, banco de dados, inteligência artificial e automação.
 
-Atualmente, estou construindo meu portfólio com projetos práticos que envolvem lógica de programação, regras de negócio, integração com banco de dados, organização de código, automação e resolução de problemas reais.
+Atualmente, construo meu portfólio com projetos práticos que envolvem lógica de programação, regras de negócio, integração com banco de dados, organização de código e resolução de problemas reais.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de Engenharia de Software
-- 💻 Foco atual em Python, MySQL, Git e GitHub
-- 🤖 Interesse em Inteligência Artificial e automação
-- 📚 Em constante evolução por meio de projetos práticos
-- 🧠 Buscando desenvolver soluções simples, úteis e bem organizadas
+- 🎓 Estudante de Engenharia de Software na PUC Campinas;
+- 💻 Conhecimentos em Python, HTML, CSS, C, Oracle SQL, MySQL, Git e GitHub;
+- 🤖 Interesse em Inteligência Artificial, automação e desenvolvimento web;
+- 📚 Em constante evolução por meio de projetos acadêmicos e práticos.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias estudadas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+| Área | Tecnologias e conhecimentos |
+| --- | --- |
+| Desenvolvimento web | HTML5 e CSS3 |
+| Programação | Python e C |
+| Banco de dados | Oracle SQL e MySQL |
+| Versionamento | Git e GitHub |
 
 ---
 
@@ -29,11 +30,9 @@ Atualmente, estou construindo meu portfólio com projetos práticos que envolvem
 
 ### 🗳️ [Sistema de Votação Digital](https://github.com/yguioliveira/Ladpy-Sistema-Votacao)
 
-Sistema em Python com integração ao MySQL para gerenciamento de eleitores, autenticação, registro de votos, auditoria, criptografia de dados sensíveis e apuração de resultados.
+Sistema em Python com integração ao MySQL para gerenciamento de eleitores, autenticação, registro de votos, auditoria e apuração de resultados.
 
 **Principais pontos:** Python, MySQL, autenticação, criptografia, auditoria e regras de negócio.
-
----
 
 ### 🚚 [FluxoNorte](https://github.com/yguioliveira/FluxoNorte)
 
@@ -41,27 +40,26 @@ Sistema em Python para gestão de pedidos, entregadores, prioridades, pagamentos
 
 **Principais pontos:** lógica de negócio, manipulação de dados, organização de código e relatórios operacionais.
 
----
-
 ### 📡 [SEUC-4](https://github.com/yguioliveira/SEUC-4)
 
-Sistema em Python para monitoramento de pressões hidrodinâmicas, ajuste térmico, classificação de estabilidade, alerta de cristalização e travamento crítico.
+Sistema em Python para monitoramento de pressões hidrodinâmicas, ajuste térmico, classificação de estabilidade e alertas críticos.
 
-**Principais pontos:** lógica de programação, estruturas condicionais, repetição, acumuladores e tomada de decisão.
+**Principais pontos:** estruturas condicionais, repetição, acumuladores e tomada de decisão.
 
----
+### 🌐 Currículo pessoal
 
-### 📚 [SmartLibrary IA](https://github.com/yguioliveira/SmartLibrary-IA)
+Página desenvolvida com HTML e CSS para a disciplina de Introdução às Tecnologias Web.
 
-Sistema de gerenciamento de biblioteca em Python com MySQL, com cadastro de livros e usuários, controle de empréstimos, devoluções e recomendações simples baseadas no histórico dos usuários.
-
-**Principais pontos:** Python, MySQL, CRUD, menus interativos, regras de negócio, controle de estoque e recomendações.
+**Principais pontos:** estrutura semântica, estilização em CSS externo, listas, tabelas e imagens.
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: [linkedin.com/in/guioliveira-dev](https://www.linkedin.com/in/guioliveira-dev)
-- 📧 Email: [guioliveira.dev@outlook.com](mailto:guioliveira.dev@outlook.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/guioliveira-dev)
+- 📧 [guioliveira.dev@outlook.com](mailto:guioliveira.dev@outlook.com)
 - 📍 Campinas, SP
-- 🎓 Engenharia de Software — PUC Campinas
+
+---
+
+> Em constante aprendizado e evolução na área de tecnologia.
