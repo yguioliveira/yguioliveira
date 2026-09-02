@@ -1,7 +1,7 @@
 <h1 align="center">Guilherme Oliveira</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software | Desenvolvimento de software e banco de dados
+  Estudante de Engenharia de Software | Desenvolvimento de Software e Banco de Dados
 </p>
 
 <p align="center">
@@ -17,9 +17,11 @@
 
 ## Sobre mim
 
-Sou estudante de Engenharia de Software na PUC Campinas e participante da Residência Tecnológica em Inteligência Artificial do Instituto Eldorado. Tenho experiência prática com Python e MySQL e desenvolvo projetos voltados a lógica de programação, regras de negócio, automação e organização de dados.
+Sou estudante de Engenharia de Software na PUC Campinas e participante da Residência Tecnológica em Inteligência Artificial do Instituto Eldorado.
 
-Neste semestre, estou ampliando meus conhecimentos em desenvolvimento web, programação em C e Oracle SQL, aplicando os conteúdos em atividades acadêmicas e projetos próprios.
+Tenho experiência prática com **Python** e **MySQL**, desenvolvendo projetos voltados para lógica de programação, regras de negócio, automação e organização de dados.
+
+Atualmente, estou ampliando meus conhecimentos em **desenvolvimento web, programação em C e Oracle SQL**, aplicando os conteúdos da graduação em atividades acadêmicas e projetos próprios.
 
 ---
 
@@ -47,22 +49,22 @@ Neste semestre, estou ampliando meus conhecimentos em desenvolvimento web, progr
 
 ## Projetos em destaque
 
-| Projeto | Descrição | Tecnologias |
-| --- | --- | --- |
-| [Sistema de Votação Digital](https://github.com/yguioliveira/Ladpy-Sistema-Votacao) | Gerenciamento de eleitores, autenticação, votos, auditoria e apuração. | Python, MySQL |
-| [FluxoNorte](https://github.com/yguioliveira/FluxoNorte) | Gestão de pedidos, entregadores, prioridades, pagamentos e reembolsos. | Python |
-| [SEUC-4](https://github.com/yguioliveira/SEUC-4) | Sistema de monitoramento com regras de estabilidade e alertas críticos. | Python |
-| [SmartLibrary IA](https://github.com/yguioliveira/SmartLibrary-IA) | Sistema de biblioteca com cadastro, empréstimos, devoluções e recomendações baseadas no histórico. | Python, MySQL |
+| Projeto                                                                             | Descrição                                                                                          | Tecnologias   |
+| ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------- |
+| [Sistema de Votação Digital](https://github.com/yguioliveira/Ladpy-Sistema-Votacao) | Gerenciamento de eleitores, autenticação, votos, auditoria e apuração.                             | Python, MySQL |
+| [FluxoNorte](https://github.com/yguioliveira/FluxoNorte)                            | Gestão de pedidos, entregadores, prioridades, pagamentos e reembolsos.                             | Python        |
+| [SEUC-4](https://github.com/yguioliveira/SEUC-4)                                    | Sistema de monitoramento com regras de estabilidade e alertas críticos.                            | Python        |
+| [SmartLibrary IA](https://github.com/yguioliveira/SmartLibrary-IA)                  | Sistema de biblioteca com cadastro, empréstimos, devoluções e recomendações baseadas no histórico. | Python, MySQL |
 
 ---
 
 ## Em desenvolvimento
 
-- Fortalecer habilidades em desenvolvimento web com HTML e CSS;
-- Aprofundar conhecimentos em Oracle SQL e modelagem de dados;
-- Evoluir em lógica e fundamentos de programação com C;
-- Aplicar os conhecimentos da residência em Inteligência Artificial em projetos práticos;
-- Desenvolver projetos cada vez mais completos e bem estruturados.
+* Fortalecer habilidades em desenvolvimento web com HTML e CSS;
+* Aprofundar conhecimentos em Oracle SQL e modelagem de dados;
+* Evoluir em lógica e fundamentos de programação com C;
+* Aplicar os conhecimentos da Residência Tecnológica em Inteligência Artificial em projetos práticos;
+* Desenvolver projetos cada vez mais completos, organizados e bem estruturados.
 
 ---
 
