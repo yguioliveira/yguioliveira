@@ -83,13 +83,4 @@ Sistema de gerenciamento de biblioteca com cadastro de usuários e livros, empr�
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yguioliveira&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yguioliveira&hide_border=true" height="165"/>
-</p>
-
----
-
 <p align="center"><i>Construindo software para transformar problemas em soluções.</i></p>
