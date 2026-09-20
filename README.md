@@ -79,18 +79,22 @@ Sistema de monitoramento (NOC) para empresa de tecnologia/cibersegurança, centr
 
 ### [Ladpy — Sistema de Votação](https://github.com/yguioliveira/Ladpy-Sistema-Votacao)
 Gerenciamento de processos eleitorais: cadastro de eleitores, autenticação, validação de CPF/título, criptografia e apuração de votos.
+
 **Stack:** `Python` `MySQL`
 
 ### [FluxoNorte](https://github.com/yguioliveira/FluxoNorte)
 Sistema de gerenciamento de pedidos para logística urbana, com regras de entregadores, prioridades, pagamentos e reembolsos.
+
 **Stack:** `Python`
 
 ### [SEUC-4](https://github.com/yguioliveira/SEUC-4)
 Simulador de monitoramento de pressão hidrodinâmica, com classificação de estabilidade e travamento automático por leituras críticas.
+
 **Stack:** `Python`
 
 ### [SmartLibrary IA](https://github.com/yguioliveira/SmartLibrary-IA)
 Gerenciamento de biblioteca com cadastro de livros e usuários, empréstimos, devoluções e recomendações baseadas em histórico.
+
 **Stack:** `Python` `MySQL`
 
 ---
