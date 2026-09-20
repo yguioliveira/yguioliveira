@@ -3,7 +3,7 @@
 <h3 align="center">Estudante de Engenharia de Software • Desenvolvimento de Software • Dados & Automação • IA</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🟢_Aberto_a_oportunidades-Estágio_%7C_Residência-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🟢_Aberto_a_oportunidades" />
 </p>
 
 <p align="center">
