@@ -1,62 +1,120 @@
-# Olá, eu sou o Guilherme 👋
+<div align="center">
 
-**Estudante de Engenharia de Software na PUC-Campinas · Residente em IA no Instituto de Pesquisas ELDORADO**
+<p><sub>DESENVOLVIMENTO DE SOFTWARE · AUTOMAÇÃO · INTELIGÊNCIA ARTIFICIAL</sub></p>
+<h1>Olá, eu sou o Guilherme 👋</h1>
+<h3>Do problema real ao software em produção.</h3>
+<p>Estudante de Engenharia de Software na <b>PUC-Campinas</b><br/>Residente em Inteligência Artificial no <b>Instituto de Pesquisas ELDORADO</b></p>
 
-Desenvolvo aplicações back-end, integrações e automações. Busco oportunidades de estágio em desenvolvimento de software, com interesse em Python, APIs, bancos de dados e inteligência artificial.
+<p>
+<img alt="Back-end" src="https://img.shields.io/badge/Back--end-2563EB?style=for-the-badge" />
+<img alt="APIs & Automação" src="https://img.shields.io/badge/APIs%20%26%20Automa%C3%A7%C3%A3o-0891B2?style=for-the-badge" />
+<img alt="IA Aplicada" src="https://img.shields.io/badge/IA%20Aplicada-7C3AED?style=for-the-badge" />
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/guioliveira-dev) · [E-mail](mailto:guioliveira.dev@outlook.com)
+<p>
+<a href="https://www.linkedin.com/in/guioliveira-dev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:guioliveira.dev@outlook.com"><img alt="Vamos conversar" src="https://img.shields.io/badge/Vamos%20conversar-334155?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+</p>
+<p><b>Aberto a oportunidades de estágio em desenvolvimento de software</b><br/><sub>Campinas, SP · Back-end, automação e inteligência artificial</sub></p>
+</div>
 
-## Experiência prática
+---
 
-### Desenvolvimento de software freelance · jun/2026 – atual
+## ⚡ Código que resolve problemas
 
-Desenvolvi e coloquei em produção um sistema de monitoramento (NOC) que processa cerca de **1.000 alertas por dia**. O sistema centraliza informações de e-mail e Telegram em um painel web.
+Gosto de entender como um processo funciona e construir software para melhorá-lo. Minha experiência reúne **integrações, automação e bancos de dados**, com um sistema de monitoramento já em produção e projetos de IA desenvolvidos em equipe.
 
-- Automação da triagem e encaminhamento de alertas com **n8n**.
-- Integração com Telegram e serviços em **Node.js**.
-- Persistência e consulta de informações em banco de dados **SQL**.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>📡 Software em produção</h3>
+<p><b>~1.000 alertas processados por dia</b></p>
+<p>Desenvolvi um sistema NOC que reúne informações de e-mail e Telegram em um painel web, com triagem automatizada e persistência em SQL.</p>
+<p><code>Node.js</code> <code>n8n</code> <code>SQL</code> <code>Telegram</code></p>
+<sub>Desenvolvimento freelance · jun/2026 – atual</sub>
+</td>
+<td width="50%" valign="top">
+<h3>🧠 Inteligência artificial na prática</h3>
+<p><b>Residência ELDORADO × PUC-Campinas</b></p>
+<p>Desenvolvo protótipos em equipe com mentoria, aplicando Python, Machine Learning, análise de dados e integração de modelos de linguagem.</p>
+<p><code>Python</code> <code>Machine Learning</code> <code>RAG</code></p>
+<sub>Residência tecnológica · ago/2026 – atual</sub>
+</td>
+</tr>
+</table>
 
-### Residência Tecnológica em Inteligência Artificial · ago/2026 – atual
+## 🛠️ Minha caixa de ferramentas
 
-No **Instituto de Pesquisas ELDORADO, em parceria com a PUC-Campinas**, desenvolvo projetos em equipe com metodologia Challenge Based Learning e acompanhamento de mentores. Aplico Python, Machine Learning e análise de dados na construção e avaliação de protótipos.
+<p><b>Back-end & automação</b></p>
+<p><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /></p>
+<p><b>Dados & persistência</b></p>
+<p><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img alt="Supabase" src="https://img.shields.io/badge/Supabase-238C61?style=for-the-badge&logo=supabase&logoColor=white" /> <img alt="Oracle SQL" src="https://img.shields.io/badge/Oracle%20SQL-C74634?style=for-the-badge" /></p>
+<p><b>Desenvolvimento & testes</b></p>
+<p><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-9A6700?style=for-the-badge&logo=javascript&logoColor=white" /> <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></p>
+<p><sub>Também estudo e utilizo HTML, CSS e Bootstrap em projetos web.</sub></p>
 
-- **C1NC0:** análise de notícias com apoio de evidências para estimular o pensamento crítico.
-- **AquaVita:** apoio a decisões no cultivo agrícola. Trabalho com integração de modelos de linguagem, recuperação de informações em uma base de conhecimento (**RAG**) e ferramentas de consulta a dados climáticos. Projeto em desenvolvimento.
+## 🚀 Projetos para explorar
 
-## Tecnologias
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🗳️ Ladpy</h3>
+<p><b>Sistema de votação digital</b></p>
+<p>Cadastro e autenticação de eleitores, validações, auditoria, criptografia e apuração de resultados.</p>
+<p><code>Python</code> <code>MySQL</code></p>
+<a href="https://github.com/yguioliveira/Ladpy-Sistema-Votacao"><b>Explorar repositório →</b></a>
+</td>
+<td width="50%" valign="top">
+<h3>📦 FluxoNorte</h3>
+<p><b>Gestão de logística urbana</b></p>
+<p>Gestão de pedidos e entregadores, com regras de prioridade, pagamentos e reembolsos.</p>
+<p><code>Python</code> <code>Regras de negócio</code></p>
+<a href="https://github.com/yguioliveira/FluxoNorte"><b>Explorar repositório →</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>⚙️ SEUC-4</h3>
+<p><b>Simulação de monitoramento industrial</b></p>
+<p>Monitoramento de pressão hidrodinâmica, classificação de estabilidade e travamento por leituras críticas.</p>
+<p><code>Python</code> <code>Lógica de monitoramento</code></p>
+<a href="https://github.com/yguioliveira/SEUC-4"><b>Explorar repositório →</b></a>
+</td>
+<td width="50%" valign="top">
+<h3>📚 SmartLibrary IA</h3>
+<p><b>Gerenciamento de biblioteca</b></p>
+<p>Cadastro de livros e usuários, menus interativos e base para evolução de empréstimos e recomendações.</p>
+<p><code>Python</code> <code>MySQL</code></p>
+<a href="https://github.com/yguioliveira/SmartLibrary-IA"><b>Explorar repositório →</b></a>
+</td>
+</tr>
+</table>
 
-| Área | Tecnologias com que trabalho ou estudo |
-| --- | --- |
-| Linguagens | Python, JavaScript, C e SQL |
-| Back-end e automação | FastAPI, Node.js e n8n |
-| Bancos de dados | MySQL, Oracle SQL e Supabase |
-| IA aplicada | Modelos de linguagem, RAG e Machine Learning |
-| Desenvolvimento | Git, GitHub e testes automatizados com Pytest |
-| Web | HTML, CSS e Bootstrap |
+## 🌱 O que estou construindo na residência
 
-## Projetos públicos
+**AquaVita · Apoio a decisões no cultivo agrícola**  
+Projeto em desenvolvimento. Trabalho com Python, integração de modelos de linguagem, RAG e ferramentas para consulta de dados climáticos.
 
-### [Ladpy — Sistema de Votação](https://github.com/yguioliveira/Ladpy-Sistema-Votacao)
+**C1NC0 · Análise de notícias com apoio de evidências**  
+Projeto desenvolvido em equipe para estimular o pensamento crítico na avaliação de informações.
 
-Projeto em **Python e MySQL** para gerenciamento de votação, com cadastro e autenticação de eleitores, validações, auditoria, criptografia e apuração de resultados.
+<details>
+<summary><b>🎓 Formação, cursos e idiomas</b></summary>
+<br/>
 
-### [FluxoNorte](https://github.com/yguioliveira/FluxoNorte)
-
-Projeto em **Python** para gestão de pedidos de logística urbana, com regras de entregadores, prioridades, pagamentos e reembolsos.
-
-### [SEUC-4](https://github.com/yguioliveira/SEUC-4)
-
-Simulador em **Python** para monitoramento de pressão hidrodinâmica, classificação de estabilidade e travamento automático por leituras críticas.
-
-### [SmartLibrary IA](https://github.com/yguioliveira/SmartLibrary-IA)
-
-Projeto de biblioteca em **Python e MySQL**, com cadastro de livros e usuários, menus interativos e base para evolução de empréstimos e recomendações.
-
-## Formação e cursos
-
-- **Engenharia de Software — PUC-Campinas**, previsão de conclusão em dezembro de 2029.
+- **Engenharia de Software — PUC-Campinas**, conclusão prevista em dezembro de 2029.
 - **Residência Tecnológica em IA — Instituto de Pesquisas ELDORADO × PUC-Campinas.**
-- Scrum no Contexto do Serviço Público — Enap, 15h.
-- Python — Santander Open Academy, 8h.
+- **Scrum no Contexto do Serviço Público** — Enap, 15h.
+- **Python** — Santander Open Academy, 8h.
+- **Idiomas:** português nativo e inglês básico.
 
-**Idiomas:** português nativo e inglês básico.
+</details>
+
+---
+
+<div align="center">
+<h3>Vamos construir algo juntos?</h3>
+<p>Busco um estágio para contribuir com projetos reais,<br/>aprender com a equipe e evoluir como desenvolvedor.</p>
+<a href="https://www.linkedin.com/in/guioliveira-dev"><img alt="Conecte-se comigo" src="https://img.shields.io/badge/Conecte--se%20comigo-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p><sub>Guilherme Oliveira · Campinas, SP</sub></p>
+</div>
