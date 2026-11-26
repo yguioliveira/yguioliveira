@@ -1,117 +1,84 @@
-<h1 align="center">Olá, eu sou o Guilherme 👋</h1>
+# Guilherme Oliveira
 
-<h3 align="center">Estudante de Engenharia de Software • Desenvolvimento de Software • Dados & Automação • IA</h3>
+**Software Engineering Student | Backend Development, Automation & AI**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🟢_Aberto_a_oportunidades-success?style=for-the-badge" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/guioliveira-dev)
+[![Instagram](https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/guioliveira.dev)
+[![Email](https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4)](mailto:guioliveira.dev@outlook.com)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/guioliveira-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:guioliveira.dev@outlook.com"><img src="https://img.shields.io/badge/Email-1D4ED8?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/guioliveira.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+## Sobre mim
 
----
+Estudante de Engenharia de Software na **PUC-Campinas** e residente em Inteligência Artificial no **Instituto Eldorado**.
 
-## 👨‍💻 Sobre mim
+Atuo no desenvolvimento de software, integração de sistemas e automação de processos. Atualmente, tenho interesse em desenvolvimento backend, arquitetura de software, inteligência artificial e empreendedorismo tecnológico.
 
-Estudante de **Engenharia de Software na PUC Campinas** e **Residente Tecnológico em Inteligência Artificial** no Instituto Eldorado.
+## Experiência
 
-Tenho experiência prática em **desenvolvimento de sistemas, automação de processos e bancos de dados**, incluindo um projeto de monitoramento em produção real. Gosto de transformar problemas do dia a dia em soluções simples de usar e fáceis de manter.
+**Residente Tecnológico em Inteligência Artificial**
 
----
+Instituto Eldorado · PUC-Campinas
 
-## 💼 Experiência
+`Ago 2026 — Presente`
 
-**Residente Tecnológico em Inteligência Artificial** — Instituto Eldorado × PUC Campinas `desde ago/2026`
-Formação prática em IA, Machine Learning e Análise de Dados (8 meses), parte do Programa Brasileiro de Inteligência Artificial (PBIA/MCTI). Projetos reais com metodologia CBL e mentoria de especialistas do mercado.
+Desenvolvimento de soluções utilizando inteligência artificial, machine learning e análise de dados, aplicados a desafios reais.
 
-**Desenvolvedor de Software — Freelance** `jun/2026 – atual`
-Sistema de monitoramento (NOC) para empresa de tecnologia/cibersegurança, centralizando alertas antes dispersos por e-mail e Telegram. Automação em **n8n**, dashboard com dados em **SQL** e leitura em tempo real via **Node.js**. Em produção, processando ~1.000 alertas/dia.
+**Desenvolvedor de Software**
 
----
+Freelance
 
-## 🛠️ Tecnologias
+`Jun 2026 — Presente`
+
+Desenvolvimento de um sistema de monitoramento NOC para uma empresa de tecnologia e cibersegurança, centralizando alertas e automatizando processos operacionais em ambiente de produção.
+
+## Tecnologias e ferramentas
 
 **Linguagens**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![C](https://img.shields.io/badge/C-18181B?style=for-the-badge&logo=c&logoColor=A8B9CC)
 
-**Back-end & Automação**
+**Backend e automação**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-18181B?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-18181B?style=for-the-badge&logo=fastapi&logoColor=009688)
+![n8n](https://img.shields.io/badge/n8n-18181B?style=for-the-badge&logo=n8n&logoColor=EA4B71)
 
-**Front-end**
+**Frontend**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-18181B?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-18181B?style=for-the-badge&logo=css&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-18181B?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
-**Banco de Dados**
+**Banco de dados**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Oracle](https://img.shields.io/badge/Oracle-18181B?style=for-the-badge&logo=oracle&logoColor=F80000)
+![Supabase](https://img.shields.io/badge/Supabase-18181B?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 
-**Ferramentas**
+**Infraestrutura e ferramentas**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
+![Git](https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-18181B?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-18181B?style=for-the-badge&logo=linux&logoColor=FCC624)
 
----
+## Projetos selecionados
 
-## 🚀 Projetos em destaque
+| Projeto | Descrição |
+|---|---|
+| [Conta Comigo](https://github.com/ArthurSenna25/conta-comigo) | Plataforma de gestão financeira para microempreendedores com inteligência artificial. Desenvolvido em equipe no Hack Brasil 2026. |
+| [C1NC0](https://c1nc0challenge.vercel.app) | Plataforma de análise de notícias e apresentação de evidências para apoiar o pensamento crítico. |
+| [Ladpy](https://github.com/yguioliveira/Ladpy-Sistema-Votacao) | Sistema de gerenciamento eleitoral com autenticação, validação de dados e apuração de votos. |
+| [FluxoNorte](https://github.com/yguioliveira/FluxoNorte) | Sistema de gerenciamento de pedidos e operações de logística urbana. |
 
-### [Ladpy — Sistema de Votação](https://github.com/yguioliveira/Ladpy-Sistema-Votacao)
-Gerenciamento de processos eleitorais: cadastro de eleitores, autenticação, validação de CPF/título, criptografia e apuração de votos.
+## Formação
 
-**Stack:** `Python` `MySQL`
+**Engenharia de Software** — PUC-Campinas
 
-### [FluxoNorte](https://github.com/yguioliveira/FluxoNorte)
-Sistema de gerenciamento de pedidos para logística urbana, com regras de entregadores, prioridades, pagamentos e reembolsos.
+`2026 — 2029`
 
-**Stack:** `Python`
-
-### [SEUC-4](https://github.com/yguioliveira/SEUC-4)
-Simulador de monitoramento de pressão hidrodinâmica, com classificação de estabilidade e travamento automático por leituras críticas.
-
-**Stack:** `Python`
-
-### [SmartLibrary IA](https://github.com/yguioliveira/SmartLibrary-IA)
-Gerenciamento de biblioteca com cadastro de livros e usuários, empréstimos, devoluções e recomendações baseadas em histórico.
-
-**Stack:** `Python` `MySQL`
-
----
-
-## 🎓 Formação & Certificações
-
-- **Engenharia de Software** — PUC Campinas *(previsão: dez/2029)*
-- **Residência Tecnológica em IA** — Instituto Eldorado × PUC Campinas
-- **Scrum no Contexto do Serviço Público** — Enap *(15h)*
-- **Python** — Santander Open Academy *(8h)*
-
----
-
-## 🌐 Idiomas
-
-`Português (nativo)` `Inglês (básico)`
-
----
-
-<p align="center"><i>Construindo software para transformar problemas em soluções.</i></p>
+**Residência Tecnológica em Inteligência Artificial** — Instituto Eldorado
