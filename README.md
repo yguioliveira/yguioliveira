@@ -1,117 +1,45 @@
-<h1 align="center">Olá, eu sou o Guilherme 👋</h1>
+<img src="./assets/monograma-go.png" width="44" height="44" alt="Monograma GO">
 
-<h3 align="center">Estudante de Engenharia de Software • Desenvolvimento de Software • Dados & Automação • IA</h3>
+# Guilherme Oliveira
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🟢_Aberto_a_oportunidades-success?style=for-the-badge" />
-</p>
+Estudo **Engenharia de Software na PUC-Campinas** e sou **residente em Inteligência Artificial no Instituto Eldorado**. Trabalho com APIs, automação e integração de sistemas. Na residência, tenho desenvolvido agentes que combinam modelos de linguagem, fontes de referência e dados externos.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/guioliveira-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:guioliveira.dev@outlook.com"><img src="https://img.shields.io/badge/Email-1D4ED8?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/guioliveira.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+[Ver projetos](#projetos) · [E-mail](mailto:guioliveira.dev@outlook.com)
 
----
+## Projetos
 
-## 👨‍💻 Sobre mim
+### Conta Comigo · Hack Brasil 2026
 
-Estudante de **Engenharia de Software na PUC Campinas** e **Residente Tecnológico em Inteligência Artificial** no Instituto Eldorado.
+Aplicação em equipe para ajudar MEIs a registrar receitas e despesas por texto, áudio ou foto. Implementei a ingestão com Gemini e validação com Zod, além do chat que seleciona referências públicas e usa os valores calculados pelo sistema. Também trabalhei no tratamento de falhas da IA e na integração com o controle de uso.
 
-Tenho experiência prática em **desenvolvimento de sistemas, automação de processos e bancos de dados**, incluindo um projeto de monitoramento em produção real. Gosto de transformar problemas do dia a dia em soluções simples de usar e fáceis de manter.
+[Repositório da equipe](https://github.com/ArthurSenna25/conta-comigo) · [Demo](https://conta-comigo-tau.vercel.app) · [PR de ingestão](https://github.com/ArthurSenna25/conta-comigo/pull/10) · [PR do chat](https://github.com/ArthurSenna25/conta-comigo/pull/26)
 
----
+### AquaVita · Challenge 2 da Residência em IA
 
-## 💼 Experiência
+Projeto em desenvolvimento para apoiar o cultivo de morangos. Minha parte é o Agente de Cultivo, que combina informações meteorológicas com RAG. Construí uma base geral e outra sobre alterações foliares, com busca por embeddings e similaridade cosseno. A equipe também desenvolve uma frente de triagem visual.
 
-**Residente Tecnológico em Inteligência Artificial** — Instituto Eldorado × PUC Campinas `desde ago/2026`
-Formação prática em IA, Machine Learning e Análise de Dados (8 meses), parte do Programa Brasileiro de Inteligência Artificial (PBIA/MCTI). Projetos reais com metodologia CBL e mentoria de especialistas do mercado.
+### PI II · Sistema de Gerenciamento de Demandas
 
-**Desenvolvedor de Software — Freelance** `jun/2026 – atual`
-Sistema de monitoramento (NOC) para empresa de tecnologia/cibersegurança, centralizando alertas antes dispersos por e-mail e Telegram. Automação em **n8n**, dashboard com dados em **SQL** e leitura em tempo real via **Node.js**. Em produção, processando ~1.000 alertas/dia.
+Sistema acadêmico em equipe com uma API REST em **Node.js, Express e TypeScript**, integrada ao **Oracle**. Implementei a tela de login, a autenticação com bcrypt e o controle de acesso por projeto. O desenvolvimento foi concluído e a apresentação acadêmica está pendente.
 
----
+### C1NC0 · Painel de Indícios
 
-## 🛠️ Tecnologias
+MVP do Challenge 1 da Residência em IA. A aplicação reúne pistas como autoria, data e links citados para orientar a leitura crítica de notícias. Trabalhei na leitura guiada dos indícios e na integração da interface React com a API em Python em uma versão do projeto.
 
-**Linguagens**
+[Demo do Challenge](https://c1nc0challenge.vercel.app) · [Repositório da equipe](https://github.com/GuiPreventi/C1NC0)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-</p>
+### Ladpy · Projeto Integrador I
 
-**Back-end & Automação**
+Simulador de votação em **Python e MySQL**, concluído no primeiro semestre da graduação. Trabalhei na navegação dos menus, na abertura e no encerramento da votação e nos registros de auditoria. Também participei da validação da apuração em equipe.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-</p>
+[Versão de portfólio](https://github.com/yguioliveira/Ladpy-Sistema-Votacao)
 
-**Front-end**
+### StayCraft · Template para Hospedagens
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-</p>
+Proposta de template demonstrativo para apresentar acomodações, com foco em interface responsiva, animações e SEO. A versão independente está em avaliação para publicação.
 
-**Banco de Dados**
+## Experiência e ferramentas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-</p>
+Em um projeto freelance de **monitoramento NOC**, integrei alertas de e-mail e Telegram com **n8n** e trabalhei em um painel com **Node.js e SQL**.
 
-**Ferramentas**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-
----
-
-## 🚀 Projetos em destaque
-
-### [Ladpy — Sistema de Votação](https://github.com/yguioliveira/Ladpy-Sistema-Votacao)
-Gerenciamento de processos eleitorais: cadastro de eleitores, autenticação, validação de CPF/título, criptografia e apuração de votos.
-
-**Stack:** `Python` `MySQL`
-
-### [FluxoNorte](https://github.com/yguioliveira/FluxoNorte)
-Sistema de gerenciamento de pedidos para logística urbana, com regras de entregadores, prioridades, pagamentos e reembolsos.
-
-**Stack:** `Python`
-
-### [SEUC-4](https://github.com/yguioliveira/SEUC-4)
-Simulador de monitoramento de pressão hidrodinâmica, com classificação de estabilidade e travamento automático por leituras críticas.
-
-**Stack:** `Python`
-
-### [SmartLibrary IA](https://github.com/yguioliveira/SmartLibrary-IA)
-Gerenciamento de biblioteca com cadastro de livros e usuários, empréstimos, devoluções e recomendações baseadas em histórico.
-
-**Stack:** `Python` `MySQL`
-
----
-
-## 🎓 Formação & Certificações
-
-- **Engenharia de Software** — PUC Campinas *(previsão: dez/2029)*
-- **Residência Tecnológica em IA** — Instituto Eldorado × PUC Campinas
-- **Scrum no Contexto do Serviço Público** — Enap *(15h)*
-- **Python** — Santander Open Academy *(8h)*
-
----
-
-## 🌐 Idiomas
-
-`Português (nativo)` `Inglês (básico)`
-
----
-
-<p align="center"><i>Construindo software para transformar problemas em soluções.</i></p>
+No backend, uso Python e Node.js para construir APIs e integrar bancos de dados. No frontend, trabalho com React, TypeScript, HTML e CSS. Uso Git e pull requests para desenvolver e revisar mudanças em equipe.
