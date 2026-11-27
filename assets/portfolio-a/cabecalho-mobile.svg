@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 290" width="520" height="290">
+
+<rect x="1" y="1" width="518" height="288" fill="#FFFFFF" stroke="#C5D1E9" stroke-width="2"/>
+<rect x="0" y="0" width="7" height="290" fill="#002FA7"/>
+<rect x="337" y="24" width="158" height="122" fill="#F3F6FE"/>
+<g><path d="M337 24H337V146" fill="none" stroke="#002FA7" stroke-opacity="0.16"/><path d="M368.6 24H368.6V146" fill="none" stroke="#002FA7" stroke-opacity="0.16"/><path d="M400.2 24H400.2V146" fill="none" stroke="#002FA7" stroke-opacity="0.16"/><path d="M431.8 24H431.8V146" fill="none" stroke="#002FA7" stroke-opacity="0.16"/><path d="M463.4 24H463.4V146" fill="none" stroke="#002FA7" stroke-opacity="0.16"/><path d="M495 24H495V146" fill="none" stroke="#002FA7" stroke-opacity="0.16"/><path d="M337 24H495V24" fill="none" stroke="#002FA7" stroke-opacity="0.16"/><path d="M337 48.4H495V48.4" fill="none" stroke="#002FA7" stroke-opacity="0.16"/><path d="M337 72.8H495V72.8" fill="none" stroke="#002FA7" stroke-opacity="0.16"/><path d="M337 97.2H495V97.2" fill="none" stroke="#002FA7" stroke-opacity="0.16"/><path d="M337 121.6H495V121.6" fill="none" stroke="#002FA7" stroke-opacity="0.16"/><path d="M337 146H495V146" fill="none" stroke="#002FA7" stroke-opacity="0.16"/><path d="M375 60h78v51h-50V86h50M351 132h121" fill="none" stroke="#002FA7" stroke-width="4"/></g>
+<g font-family="Helvetica Neue, Arial, sans-serif">
+ <text x="30" y="43" font-size="18" font-weight="700" fill="#002FA7" letter-spacing="1.2">ENGENHARIA DE SOFTWARE</text>
+ <text x="30" y="117" font-size="58" font-weight="700" fill="#121D32" letter-spacing="-2">Guilherme</text><text x="30" y="174" font-size="58" font-weight="700" fill="#121D32" letter-spacing="-2">Oliveira</text>
+ <path d="M30 205h441" stroke="#CCD7EE"/>
+ <text x="30" y="249" font-size="24" fill="#002FA7">Inteligência Artificial</text>
+</g>
+</svg>
