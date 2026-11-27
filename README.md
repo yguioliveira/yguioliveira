@@ -24,9 +24,9 @@ Sistema acadêmico em equipe com uma API REST em **Node.js, Express e TypeScript
 
 ### C1NC0 · Painel de Indícios
 
-MVP do Challenge 1 da Residência em IA. A aplicação reúne pistas como autoria, data e links citados para orientar a leitura crítica de notícias. Trabalhei na leitura guiada dos indícios e na integração da interface React com a API em Python em uma versão do projeto.
+MVP desenvolvido em equipe no Challenge 1 da Residência em IA. Na minha versão, trabalhei na leitura guiada de indícios como autoria, data e links citados, além da integração da interface em React com a API em Python.
 
-[Demo do Challenge](https://c1nc0challenge.vercel.app) · [Repositório da equipe](https://github.com/GuiPreventi/C1NC0)
+[Demo da minha versão](https://c1nc0.vercel.app)
 
 ### Ladpy · Projeto Integrador I
 
