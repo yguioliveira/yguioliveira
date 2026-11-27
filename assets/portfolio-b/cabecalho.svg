@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 292" width="1200" height="292">
+
+<rect x="1" y="1" width="1198" height="290" fill="#0B0C0A" stroke="#35463C" stroke-width="2"/>
+<path d="M0 2h1200" stroke="#00E676" stroke-width="4"/>
+<path d="M900 22v247" stroke="#35463C"/><path d="M940 22v247" stroke="#35463C"/><path d="M980 22v247" stroke="#35463C"/><path d="M1020 22v247" stroke="#35463C"/><path d="M1060 22v247" stroke="#35463C"/><path d="M1100 22v247" stroke="#35463C"/><path d="M892 30h223" stroke="#35463C"/><path d="M892 87h223" stroke="#35463C"/><path d="M892 144h223" stroke="#35463C"/><path d="M892 201h223" stroke="#35463C"/><path d="M892 258h223" stroke="#35463C"/><polyline points="919,222 960,222 960,158 1012,158 1012,97 1061,97 1103,55 1145,55" stroke="#00E676" stroke-width="3" fill="none"/>
+<rect x="957" y="219" width="6" height="6" fill="#0B0C0A" stroke="#00E676" stroke-width="2"/><rect x="1009" y="155" width="6" height="6" fill="#0B0C0A" stroke="#00E676" stroke-width="2"/><rect x="1058" y="94" width="6" height="6" fill="#0B0C0A" stroke="#00E676" stroke-width="2"/><rect x="1142" y="52" width="6" height="6" fill="#0B0C0A" stroke="#00E676" stroke-width="2"/>
+<g font-family="IBM Plex Mono, Consolas, monospace">
+ <text x="46" y="129" font-size="84" font-weight="700" fill="#EDF7EF" letter-spacing="-5">Guilherme Oliveira</text>
+ <path d="M46 162h736" stroke="#35463C" stroke-width="2"/>
+ <text x="46" y="221" font-size="28" font-weight="600" fill="#00E676">Engenharia de Software</text>
+ <text x="46" y="257" font-size="28" fill="#EDF7EF">Inteligência Artificial</text>
+</g>
+</svg>
